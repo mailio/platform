@@ -1,0 +1,2 @@
+# mailio
+Decentralized email platform
