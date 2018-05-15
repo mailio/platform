@@ -10,6 +10,6 @@ We believe Privacy and Confidentiality should be the fundamental principles of w
 
 ### Web Resources
 
-[One Pager] (https://www.mailio.io)
+[One Pager](https://www.mailio.io)
 
 [WhitePaper](https://www.mailio.io)
