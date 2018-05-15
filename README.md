@@ -7,3 +7,9 @@ We believe Privacy and Confidentiality should be the fundamental principles of w
 ### Reserve your email address
 
 [https://www.mailio.io](https://www.mailio.io)
+
+### Web Resources
+
+[One Pager] (https://www.mailio.io)
+
+[WhitePaper](https://www.mailio.io)
